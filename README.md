@@ -5,3 +5,5 @@
 * Technologies: HTML, CSS, JS
 
 [This was a code along project based off of Brad Traversy's YouTube tutorial] (https://youtu.be/p0bGHP-PXD4)
+
+- This website is hosted on [https://loruke-cloud-hosting.netlify.app](https://loruke-cloud-hosting.netlify.app)
